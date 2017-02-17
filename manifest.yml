@@ -6,3 +6,4 @@ applications:
   name: go-chl-01
   host: go-chl-01
   disk_quota: 1024M
+  build_pack: go_buildpack
